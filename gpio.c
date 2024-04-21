@@ -1,3 +1,7 @@
+/ /Majdi KHARADNI
+// 2024 01.10
+//GPIO.c
+
 #include "gpio.h"
 
 void GPIO_Clock_Enable(uint32_t *GPIOx)
